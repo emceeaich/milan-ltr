@@ -8,4 +8,4 @@ Erring on the the side of asking forgiveness rather than permission, I'm making 
 
 If this format of a letter works for your non-US state, province, prefecture, or other polity, please contribute versions of the letter.
 
-This project is provided under the Hippocratic Licence, and adopts the Contributor Covenant as its Code of Conduct.
+This project is provided under the [Hippocratic Licence](https://firstdonoharm.dev/version/2/1/license.html), and adopts the Contributor Covenant as its Code of Conduct.
