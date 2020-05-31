@@ -12,15 +12,41 @@ Erring on the the side of asking forgiveness rather than permission, I'm making 
 
 If this format of a letter works for your non-US state, province, prefecture, or other polity, please contribute versions of the letter.
 
+## Sending a letter is not enough
+
+* Contribute to local bail funds
+* Educate yourself about the history of Policing in the US and its relationship to slavery
+
 ## Contributing
 
 ### What we need now
 
+* An accountability partner to make sure we are centering Black lives in our efforts
 * Versions of Milan's letter adapted for US states, territories, and jurisdictions 
   * Documentation on how to adapt the letter for your state, territory, or district
+* Documentation for state budgets
 * Translations of the letter into Spanish and other commonly used languages in the US
 * A micro-site with directions on finding a letter for one's jurisdiction and how to use it
-* An accountability partner to make sure we are centering Black lives in our efforts
+  * A Jekyll template
+
+### How to contribute
+
+_Contributions should be in the form of a pull request from your fork of this project._
+
+* Take a state or jurisdiction that needs a letter
+  * Create a new file in `letters/COUNTRY-CODE`
+    * Use `ltr-STATE-COUNTRY.txt` as the template for naming files
+  * Update the governor's name
+  * Make sure all the state name references are correct
+  * Locate the state's recent budget for prisons (a.k.a. corrections) and update 
+    `sources/prison-and-corrections-budgets.md` with that information
+  * Update the letter with that information
+  * If your state does not have cash bail, remove that and optionally suggest another
+    anti-carcerial measure that saves money.
+  * Make a pull request
+* Proofread existing letters for spelling, grammar, and facts
+  * Make proposed corrections in a pull request
+* Comment on pull requests for facts, spelling, and grammar
 
 ## License and code of conduct
 
