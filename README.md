@@ -1,5 +1,7 @@
 # The Milan Letter Project
 
+![https://img.shields.io/badge/licensed-ethically-%234baaaa](Licensed Ethically)
+
 Writer [Courtney Milan shared a draft of a letter she is sending to her state's governor (CO-US) demanding](https://twitter.com/courtneymilan/status/1266917538123767809):
 
 * Reduced funding of police
