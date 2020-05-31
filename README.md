@@ -14,7 +14,7 @@ If this format of a letter works for your non-US state, province, prefecture, or
 
 ## Sending a letter is not enough
 
-* Contribute to local bail funds
+* Contribute to local bail funds. There's a [list of bail funds by state](https://bailfunds.github.io/) and region.
 * Educate yourself about the history of Policing in the US and its relationship to slavery
 
 ## Contributing
