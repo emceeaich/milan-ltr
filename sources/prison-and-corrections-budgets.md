@@ -2,7 +2,7 @@
 
 ## California
 
-- Governor Gavin Newsome
+- Governor Gavin Newsom
 - California Department of Corrections and Rehabilitation (CDCR)
 
 * 2020-2021, 13.4 Billion USD, http://www.ebudget.ca.gov/2020-21/pdf/BudgetSummary/PublicSafety.pdf
