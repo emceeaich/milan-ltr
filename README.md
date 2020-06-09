@@ -2,7 +2,7 @@
 
 ![Repository Change](https://img.shields.io/badge/Attention-Repository%20Change-yellow) 
 
-Project's default branch is now `main` instead of `master` please update your local branches using `git branch -m master main`. [See Scott Hanselman's post](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx) for more information. 
+**2020-06-08**: Project's default branch is now `main` instead of `master` please update your local branches using `git branch -m master main`. [See Scott Hanselman's post](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx) for more information. 
 
 ![Licensed Ethically](https://img.shields.io/badge/licensed-ethically-%234baaaa)
 
