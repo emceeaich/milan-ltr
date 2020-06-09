@@ -1,5 +1,9 @@
 # The Milan Letter Project
 
+![Repository Change](https://img.shields.io/badge/Attention-Repository%20Change-yellow) 
+
+Project's default branch is now `main` instead of `master` please update your local branches using `git branch -m master main`. [See Scott Hanselman's post](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx) for more information. 
+
 ![Licensed Ethically](https://img.shields.io/badge/licensed-ethically-%234baaaa)
 
 Writer [Courtney Milan shared a draft of a letter she is sending to her state's governor (CO-US) demanding](https://twitter.com/courtneymilan/status/1266917538123767809):
